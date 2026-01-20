@@ -1,5 +1,6 @@
-# Vue 3 + Vite
+# Handsome-ke Superhero Page
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This repo hosts a single-page, neon “小柯是帅哥！” experience built with Vue 3 and Vite.
+The live site is published to GitHub Pages at https://cicistone90-oss.github.io/handsome-ke/.
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+If you want to keep iterating locally, use `npm install` and `npm run dev`; the `build-and-deploy` workflow takes care of publishing to `gh-pages`.
